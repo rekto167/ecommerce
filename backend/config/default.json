@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb://127.0.0.1:27017/mern_ecommerce"
+    "mongoURI": "mongodb://127.0.0.1:27017/mern_ecommerce",
+    "jwtSecret": "ZWNvbW1lcmNlIG1lcm4g"
 }
